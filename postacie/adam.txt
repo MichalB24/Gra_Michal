@@ -1,0 +1,9 @@
+Imie: adam
+Sila: 10
+Szybkosc: 10
+Zwinnosc: 10
+Zdrowie: 100
+Doswiadczenie: 0
+Poziom: 1
+Wygrane: 4199705
+Przegrane: 0

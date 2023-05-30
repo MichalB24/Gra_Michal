@@ -1,0 +1,9 @@
+Imie: john
+Sila: 10
+Szybkosc: 10
+Zwinnosc: 10
+Zdrowie: 100
+Doswiadczenie: 150
+Poziom: 2
+Wygrane: 42
+Przegrane: 8
